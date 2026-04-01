@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>🔭 I’m currently working on<br>→ Digital Footprint Scanner – analyze how much of your data is exposed online & provide one-click removal requests<br><br>🌱 I’m currently learning<br>→ Full Stack Web Development & Cyber Security
+<br><br>🔭 I’m currently working on<br>→ Digital Footprint Scanner – analyze how much of your data is exposed online & provide one-click removal requests<br><br>🌱 I’m currently learning<br>→ Web Development & Cyber Security
 
 
 ## 🌐 Socials:
